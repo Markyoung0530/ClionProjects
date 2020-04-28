@@ -1,0 +1,3 @@
+/Users/markyoung/Desktop/ClionProjects/HW2_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/markyoung/Desktop/ClionProjects/HW2_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markyoung/Desktop/ClionProjects/HW2_5/cmake-build-debug/CMakeFiles/HW2_5.dir

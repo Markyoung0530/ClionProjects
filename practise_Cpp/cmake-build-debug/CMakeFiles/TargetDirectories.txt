@@ -1,0 +1,3 @@
+/Users/markyoung/Desktop/ClionProjects/practise_Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/markyoung/Desktop/ClionProjects/practise_Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markyoung/Desktop/ClionProjects/practise_Cpp/cmake-build-debug/CMakeFiles/practise_Cpp.dir

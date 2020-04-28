@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/markyoung/Desktop/ClionProjects/Link/main.c
+stdio.h
+-
+stdlib.h
+-
+mach/mach_types.h
+-
+
